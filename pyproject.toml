@@ -1,0 +1,7 @@
+[tool.blue]
+line-length = 79
+
+[tool.isort]
+profile = "black"
+sections = ['FUTURE', 'STDLIB', 'THIRDPARTY', 'FIRSTPARTY', 'LOCALFOLDER']
+line_length = 79
